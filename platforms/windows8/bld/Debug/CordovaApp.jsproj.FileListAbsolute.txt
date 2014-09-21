@@ -1,0 +1,15 @@
+C:\temp\hello\platforms\windows8\bin\Debug\resources.pri
+C:\temp\hello\platforms\windows8\bin\Debug\AppxManifest.xml
+C:\temp\hello\platforms\windows8\bin\Debug\CordovaApp.build.appxrecipe
+C:\temp\hello\platforms\windows8\bld\Debug\priconfig.xml
+C:\temp\hello\platforms\windows8\bld\Debug\priconfig.xml.intermediate
+C:\temp\hello\platforms\windows8\bld\Debug\layout.resfiles
+C:\temp\hello\platforms\windows8\bld\Debug\layout.resfiles.intermediate
+C:\temp\hello\platforms\windows8\bld\Debug\resources.resfiles
+C:\temp\hello\platforms\windows8\bld\Debug\resources.resfiles.intermediate
+C:\temp\hello\platforms\windows8\bld\Debug\pri.resfiles
+C:\temp\hello\platforms\windows8\bld\Debug\pri.resfiles.intermediate
+C:\temp\hello\platforms\windows8\bld\Debug\qualifiers.txt
+C:\temp\hello\platforms\windows8\bld\Debug\qualifiers.txt.intermediate
+C:\temp\hello\platforms\windows8\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\temp\hello\platforms\windows8\bld\Debug\ProjectArchitectures.txt
